@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">GtaVfm</string>
+    <!--<string name="title_home">Home</string>-->
+    <string name="title_dashboard">Radio List</string>
+    <string name="title_activity_radio_list">GtaVfm</string>
+
+    <string name="Button">west cost classics</string>
+    <string name="Button1">RADIO los santos</string>
+    <string name="Button3">Space 103.2</string>
+    <string name="ImageView">image</string>
+    <string name="editText">GtaVfm</string>
+
+    <!--<string name="title_notifications">Notifications</string>-->
+</resources>
